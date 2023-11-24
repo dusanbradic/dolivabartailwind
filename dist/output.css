@@ -631,6 +631,26 @@ video {
   margin-bottom: 1rem;
 }
 
+.mt-4 {
+  margin-top: 1rem;
+}
+
+.mt-6 {
+  margin-top: 1.5rem;
+}
+
+.mt-8 {
+  margin-top: 2rem;
+}
+
+.mt-10 {
+  margin-top: 2.5rem;
+}
+
+.mt-80 {
+  margin-top: 20rem;
+}
+
 .block {
   display: block;
 }
@@ -984,6 +1004,18 @@ video {
 }
 
 @media (min-width: 768px) {
+  .md\:top-4 {
+    top: 1rem;
+  }
+
+  .md\:mt-80 {
+    margin-top: 20rem;
+  }
+
+  .md\:mt-60 {
+    margin-top: 15rem;
+  }
+
   .md\:hidden {
     display: none;
   }
