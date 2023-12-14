@@ -988,6 +988,10 @@ video {
     margin-top: 15rem;
   }
 
+  .md\:mt-40 {
+    margin-top: 10rem;
+  }
+
   .md\:hidden {
     display: none;
   }
